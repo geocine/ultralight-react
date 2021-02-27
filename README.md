@@ -47,13 +47,13 @@ Inside the `app` folder resides React, you need to install dependencies by execu
 yarn
 ```
 
-### Ultralight
-
 Before anything else you need to build the react project. You need to do this everytime you want to test the desktop application.
 
 ```shell
 yarn build
 ```
+
+### Ultralight
 
 Setup the Ultralight build folder, you only have to do this once by executing the following commands
 
