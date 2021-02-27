@@ -49,6 +49,12 @@ yarn
 
 ### Ultralight
 
+Before anything else you need to build the react project. You need to do this everytime you want to test the desktop application.
+
+```shell
+yarn build
+```
+
 Setup the Ultralight build folder, you only have to do this once by executing the following commands
 
 ```shell
